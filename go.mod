@@ -30,7 +30,7 @@ require (
 require (
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230106234847-43070de90fa1
 	github.com/bufbuild/buf v1.10.0
-	github.com/cyphar/filepath-securejoin v0.2.3
+	github.com/cyphar/filepath-securejoin v0.2.4
 	github.com/google/uuid v1.3.0
 	golang.org/x/sys v0.4.0
 	google.golang.org/grpc v1.50.1
