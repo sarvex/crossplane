@@ -35,7 +35,7 @@ require (
 	golang.org/x/sys v0.4.0
 	google.golang.org/grpc v1.50.1
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
-	google.golang.org/protobuf v1.28.2-0.20220831092852-f930b1dc76e8
+	google.golang.org/protobuf v1.33.0
 	kernel.org/pub/linux/libs/security/libcap/cap v1.2.66
 )
 
